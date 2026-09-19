@@ -1,4 +1,4 @@
-# Qi Code — public site
+# MorsePath — public site
 
 Public static pages for **MorsePath** (subtitle: Morse Trainer) App Store / TestFlight fields:
 
@@ -10,7 +10,7 @@ Public static pages for **MorsePath** (subtitle: Morse Trainer) App Store / Test
 
 **Support email:** bfgames.support@gmail.com
 
-English only, matching the app. Qi Code's iPhone UI is English in Version 1, so
+English only, matching the app. MorsePath's iPhone UI is English in Version 1, so
 these pages are not localized either — unlike the sibling `nineby-go-site`,
 whose app localizes to French and German.
 
