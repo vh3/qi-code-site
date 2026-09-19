@@ -1,6 +1,6 @@
 # Qi Code — public site
 
-Public static pages for **Qi Code** (subtitle: Morse Trainer) App Store / TestFlight fields:
+Public static pages for **MorsePath** (subtitle: Morse Trainer) App Store / TestFlight fields:
 
 | Page | Path | Purpose |
 |---|---|---|
@@ -17,7 +17,7 @@ whose app localizes to French and German.
 ## Why this repo is public
 
 Apple requires a reachable privacy policy URL for every App Store listing, even
-for an app that collects no data — Qi Code makes no network calls at all. GitHub
+for an app that collects no data — Morse Path makes no network calls at all. GitHub
 Pages needs a public repository to serve these pages for free. The iOS
 application source stays private.
 
